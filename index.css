@@ -1,0 +1,44 @@
+body{
+    background-color:lightgreen;
+
+
+}
+
+em {
+    font-weight: bold;
+    text-decoration: underline;
+    color: red;
+}
+h1 {
+    text-shadow: 8px 8px 5px green;
+    font-weight: bold;
+    text-decoration: none;
+    color: red;
+    border: 2 dotted red;
+}
+
+    .h3{
+    font-weight: bold;
+    color: green;
+}
+
+li{
+    display: inline;
+    padding: 8px;
+}
+#one{
+    color: green;
+
+}
+.red-box{
+    width:150px;
+    height: 150px;
+    background-color: pink;
+    border-radius: 80px;
+    border: 1px solid blue;
+}
+.red-box :hover{
+    border-radius: 20px;
+    color: green;
+    
+}
